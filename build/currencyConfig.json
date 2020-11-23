@@ -1,0 +1,26 @@
+{
+    "DefaultCurrency":
+    {
+        "Currency": "INR ₹"
+    },
+    "CurrencyList":
+    [     
+        "INR ₹",
+        "USD $",
+        "CAD C$",
+        "EUR €",
+        "RUB ₽",
+        "GBP £",
+        "JPY ¥"
+    ],
+    "Exchange":
+    {
+        "INR ₹": "1",
+        "USD $": "0.014",
+        "CAD C$": "0.018",
+        "EUR €": "0.012",
+        "RUB ₽": "0.93",
+        "GBP £": "0.010",
+        "JPY ¥": "1.40"
+    }
+}

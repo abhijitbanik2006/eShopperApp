@@ -1,0 +1,22 @@
+[
+    {
+        "menuLabel": "Home",
+        "menuLink": "/"
+    },
+    {
+        "menuLabel": "Products",
+        "menuLink": "/products"
+    },
+    {
+        "menuLabel": "Checkout (without id)",
+        "menuLink": "/checkout"
+    },
+    {
+        "menuLabel": "Checkout (with id)",
+        "menuLink": "/checkout/1000"
+    },
+    {
+        "menuLabel": "Checkout (with id & query)",
+        "menuLink": "/checkout/1000?name=test&email=test@mail.com"
+    }
+]
